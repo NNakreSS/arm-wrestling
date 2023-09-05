@@ -1,4 +1,4 @@
-```markdown
+
 # NakreS Arm Wrestling
 
 ![NakreS Arm Wrestling](https://media.discordapp.net/attachments/870031386709475359/1148745860172222514/image.png?width=1455&height=596)
@@ -27,4 +27,3 @@ To purchase **NakreS Arm Wrestling**, please visit our [Tebex store](https://nak
 If you encounter any issues or have questions about the script, please don't hesitate to contact our support team. You can reach us through the Tebex store or visit our [website](https://nakres.dev) for additional information.
 
 Thank you for choosing **NakreS Arm Wrestling** for your FiveM server. We hope you and your players have a great time with this new feature!
-```
