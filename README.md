@@ -5,6 +5,9 @@
 
 **NakreS Arm Wrestling** is a premium FiveM script that allows you to add an exciting arm wrestling feature to your server. With this script, you can provide your players with a unique and entertaining activity.
 
+## Preview
+[Youtube]([https://media.discordapp.net/attachments/870031386709475359/1148745860172222514/image.png?width=1455&height=596](https://www.youtube.com/watch?v=gT6680wYk0k))
+
 ## Features
 - Realistic arm wrestling mechanics.
 - Interactive and fun gameplay.
