@@ -2,6 +2,8 @@
 # NakreS Arm Wrestling
 
 ![NakreS Arm Wrestling](https://media.discordapp.net/attachments/870031386709475359/1148745860172222514/image.png?width=1455&height=596)
+![NakreS Arm Wrestling - Prop Creator](https://media.discordapp.net/attachments/870031386709475359/1148986946736107562/Baslksz-1.png?width=1440&height=590)
+
 
 **NakreS Arm Wrestling** is a premium FiveM script that allows you to add an exciting arm wrestling feature to your server. With this script, you can provide your players with a unique and entertaining activity.
 
